@@ -83,10 +83,19 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+![image](https://github.com/user-attachments/assets/02c781e6-17b9-49fb-9c68-484a799a574e)
 
+![image](https://github.com/user-attachments/assets/23b27f71-ec21-4c60-90f3-e86f5971e0e3)
+![image](https://github.com/user-attachments/assets/c28346e2-a121-458e-adfc-81e57c8a72d4)
+![image](https://github.com/user-attachments/assets/8a85a053-5097-447a-8ddc-fd9f13e2b73b)
 
+![Screenshot 2024-10-14 084942](https://github.com/user-attachments/assets/010cf229-a323-49b2-8500-9490dce1840a)
+
+![Screenshot 2024-10-14 085447](https://github.com/user-attachments/assets/fcd6ab8f-cb97-47b6-af7c-bd12bc8d486e)
+![Screenshot 2024-10-14 085907](https://github.com/user-attachments/assets/c578a4f2-2768-411e-b68e-65dcf1da3e87)
+![Screenshot 2024-10-14 090024](https://github.com/user-attachments/assets/09c056ed-3a0c-4365-937d-2427e503a8ab)
 
 
 ## Results: 
 
-
+Configuring indoor gateway for LORAWAN is successfully executed.
